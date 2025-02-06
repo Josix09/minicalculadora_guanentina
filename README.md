@@ -30,6 +30,6 @@ el resultado de la operación
 
 # Diseño
 
-![diagrama de flujo]() "diagrama de flujo"
+![diagrama de flujo](diagrama.png) "diagrama de flujo"
 
 # construcción
